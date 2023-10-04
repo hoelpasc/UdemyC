@@ -2,7 +2,7 @@
 
 void printEvenOrOdd(int number)
 {
-    if (number % 2 == 0)
+    if (number % 3 == 0)
     {
         printf("%d is even!\n", number);
     }
